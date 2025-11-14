@@ -1,0 +1,8 @@
+{
+          "name": "api",
+          "version": "1.0.0",
+          "description": "Azure Function API for Cosmos DB",
+          "dependencies": {
+            "@azure/cosmos": "^4.0.0"
+          }
+        }
